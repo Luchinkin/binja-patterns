@@ -1,0 +1,29 @@
+{
+    "pluginmetadataversion": 2,
+    "name": "Binja Patterns",
+    "type": [
+        "helper"
+    ],
+    "api": [
+        "python2",
+        "python3"
+    ],
+    "description": "Helper for patterns",
+    "longdescription": "",
+    "platforms": [
+        "Windows",
+        "Linux",
+        "Darwin"
+    ],
+    "installinstructions": {
+        "Windows": "",
+        "Linux": "",
+        "Darwin": ""
+    },
+    "dependencies": {
+        "pip": []
+    },
+    "version": "1.0.0",
+    "author": "ILKA",
+    "minimumbinaryninjaversion": 0
+}
