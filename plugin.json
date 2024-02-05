@@ -20,9 +20,6 @@
         "Linux": "",
         "Darwin": ""
     },
-    "dependencies": {
-        "pip": []
-    },
     "version": "1.0.0",
     "author": "ILKA",
     "minimumbinaryninjaversion": 0
